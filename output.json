@@ -1,0 +1,67 @@
+[
+    {
+        "column_name": "Legal Manufacturer",
+        "question": "What is the Legal Manufacturer (name only)",
+        "answer": "Tornier S.A.S."
+    },
+    {
+        "column_name": "Single Registration Number",
+        "question": "What is the Single Registration Number (only return value)",
+        "answer": "FR-MF-000011808"
+    },
+    {
+        "column_name": "Authorized Representative",
+        "question": "What is the authorized representative (only return value)",
+        "answer": "FR-MF-000011808"
+    },
+    {
+        "column_name": "Product Location(s)",
+        "question": "What is the location",
+        "answer": "161 rue Lavoisier 38330 Montbonnot Saint Martin France"
+    },
+    {
+        "column_name": "Test Subject",
+        "question": "What is the project name or test subject",
+        "answer": "Blueprint® Mixed Reality system software (HOLOBLUEPRINTTM)"
+    },
+    {
+        "column_name": "EMDN Code",
+        "question": "What is the EMDN code (only returns code)",
+        "answer": "Z12021182"
+    },
+    {
+        "column_name": "MDN/MDA/MDS code",
+        "question": "What is the MDN/MDA/MDS code (only returns code)",
+        "answer": "Z12021182"
+    },
+    {
+        "column_name": "Basic UDI-Device Identifier",
+        "question": "What is the Basic UDI-DI (only returns value)",
+        "answer": "3700386900178P"
+    },
+    {
+        "column_name": "Test Specifications",
+        "question": "What is the Test Specifications",
+        "answer": "Annex IX of the Regulation (EU) 2017/745"
+    },
+    {
+        "column_name": "Test Specifications",
+        "question": "What is the lifetime of the product",
+        "answer": "Valid until expiration of the respective EU Certificate"
+    },
+    {
+        "column_name": "Scope",
+        "question": "What is the scope?",
+        "answer": "This declaration applies to devices manufactured after the date issuance of this declaration"
+    },
+    {
+        "column_name": "Test Result",
+        "question": "What is the Test Result?",
+        "answer": "None Risk Class: Class IIa"
+    },
+    {
+        "column_name": "Project Management",
+        "question": "Who is the Project Manager?",
+        "answer": ""
+    }
+]
